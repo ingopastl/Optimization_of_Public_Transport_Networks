@@ -27,7 +27,7 @@ The new value should be the URL exposed by your OSRM HTTP server.
 +---src
 |   \---main
 |       +---java
-|       |   |   Main.java - Main that is going to run the algorithm.
+|       |   |   Main.java - Main class that is going to run the algorithm.
 |       |   |
 |       |   +---beans
 |       |   |       BusLine.java - Bean data class.
